@@ -1,7 +1,7 @@
 # Weather App
 A web app that allows you to view the current weather and the 3-day forecast based on your current location.
 
-Demo link: [https://bethqiang.github.io/weather-app](https://bethqiang.github.io/weather-app)
+Demo link: [https://weather-app-bq.surge.sh/](https://weather-app-bq.surge.sh/)
 
 Built using HTML, CSS, Bootstrap, JavaScript, JQuery, [the Dark Sky Forecast API](https://developer.forecast.io/), and [the Google Maps Geocoding API](https://developers.google.com/maps/documentation/geocoding/intro).
 
